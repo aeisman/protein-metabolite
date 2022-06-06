@@ -28,3 +28,4 @@ Manifest.toml
 
 # Mac system files
 *.DS_Store
+*Icon?
