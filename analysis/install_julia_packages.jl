@@ -1,0 +1,13 @@
+using Pkg
+Pkg.update()
+Pkg.add("CSV")
+Pkg.add("DataFrames")
+Pkg.add("RCall")
+Pkg.add("GZip")
+Pkg.add("Statistics")
+Pkg.add("GLM")
+Pkg.add("HypothesisTests")
+Pkg.add("LinearAlgebra")
+Pkg.add("Printf")
+Pkg.add("Clustering")
+Pkg.update()
