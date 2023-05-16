@@ -1,5 +1,5 @@
 # View Results
-View a browsable version of the Protein-Metabolite associations as a Shiny app at: https://aeisman.shinyapps.io/protein-metabolite
+View a browsable version of the Protein-Metabolite associations as a Shiny app at: https://mbenson.shinyapps.io/protein-metabolite
 
 ---
 ---
