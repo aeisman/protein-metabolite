@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/457967571.svg)](https://zenodo.org/badge/latestdoi/457967571)
+
 # View Results
 View a browsable version of the Protein-Metabolite associations as a Shiny app at: https://mbenson.shinyapps.io/protein-metabolite
 
