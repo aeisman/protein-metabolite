@@ -1,5 +1,5 @@
 # protein-metabolite
-Code repository for, "Protein Metabolite Association Studies Identify Novel Proteomic Determinants of Metabolite Levels in Human Plasma"
+Code repository for "Protein Metabolite Association Studies Identify Novel Proteomic Determinants of Metabolite Levels in Human Plasma"
 
 [![DOI](https://zenodo.org/badge/457967571.svg)](https://zenodo.org/badge/latestdoi/457967571)
 
